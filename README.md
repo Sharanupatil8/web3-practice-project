@@ -1,3 +1,3 @@
 # web3-practice-project
 
-a simple smart contract bilt using solidity and tested by mocha and deployed to goerli network
+a simple smart contract built using solidity, truffle and web3.js and tested by mocha and deployed to goerli network.
